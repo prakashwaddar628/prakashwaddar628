@@ -1,5 +1,21 @@
-# 💫 About Me:
-🔭 I’m currently working on: Building an e-commerce website powered by a robust DBMS and improving my skills in AI and web development.<br><br>👯 I’m looking to collaborate on: AI-driven projects, data science research, and innovative web and mobile applications.<br><br>🤝 I’m looking for help with: Building efficient real-time data pipelines and optimizing AI models for large-scale deployment.<br><br>🌱 I’m currently learning: Advanced techniques in AI, cloud computing, and modern web technologies.<br><br>💬 Ask me about: AI, data science, web development, or any projects involving innovative software solutions!<br><br>⚡ Fun fact: I'm fascinated by the intersection of technology and human behavior, and I enjoy exploring how AI can shape the future!
+💫 About Me
+🚀 Currently Working On:
+Building a full-featured e-commerce platform backed by a robust DBMS, while sharpening my expertise in AI and modern web development.
+
+🤝 Open to Collaborations In:
+AI-driven applications, data science research, and creative web/mobile development projects that push boundaries.
+
+🧠 Looking for Help With:
+Designing efficient real-time data pipelines and scaling AI models for production-ready deployment.
+
+🌱 Currently Learning:
+Advanced AI concepts, cloud-native architectures, and cutting-edge web technologies.
+
+💬 Let’s Talk About:
+Artificial Intelligence, Data Science, Full-Stack Development, or any tech that challenges the status quo.
+
+⚡ Fun Fact:
+I'm passionate about how technology interacts with human behavior—and I love exploring how AI can transform everyday life.
 
 
 ## 🌐 Socials:
