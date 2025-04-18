@@ -1,21 +1,32 @@
-💫 About Me
-🚀 Currently Working On:
-Building a full-featured e-commerce platform backed by a robust DBMS, while sharpening my expertise in AI and modern web development.
+## 🚀 About Me
 
-🤝 Open to Collaborations In:
-AI-driven applications, data science research, and creative web/mobile development projects that push boundaries.
+🎯 **Current Projects:**
+- 🛠️ **WebNexa** – AI-powered website builder for small businesses, using open-source tech and self-hosted models.
+- 🛒 **GroceryHub** – Smart grocery management system (Next.js + Flask).
+- 🎌 **Anime Characterization** – ML/DL project recognizing anime characters and analyzing behaviors.
+- 🧾 **Loan Approval Predictor** – Full-stack app predicting loan approvals with real-time ML integration.
 
-🧠 Looking for Help With:
-Designing efficient real-time data pipelines and scaling AI models for production-ready deployment.
+🤝 **Looking to Collaborate On:**
+- Cutting-edge **AI/ML projects**
+- Innovative **web/mobile applications**
+- Open-source tools that solve **real-world problems**
 
-🌱 Currently Learning:
-Advanced AI concepts, cloud-native architectures, and cutting-edge web technologies.
+🧠 **Learning & Exploring:**
+- ⚙️ Advanced AI & deep learning techniques
+- ☁️ Cloud computing & deployment (AWS, Docker, etc.)
+- 🧩 Full-stack development with **Next.js**, **Flask**, and modern UI frameworks
 
-💬 Let’s Talk About:
-Artificial Intelligence, Data Science, Full-Stack Development, or any tech that challenges the status quo.
+💡 **Ask Me About:**
+AI, data science, deep learning, Flask, Next.js, or how to bring an AI project from idea to deployment!
 
-⚡ Fun Fact:
-I'm passionate about how technology interacts with human behavior—and I love exploring how AI can transform everyday life.
+🌟 **Fun Fact:**
+I'm passionate about the intersection of **tech & human behavior** – and I love creating intelligent apps that feel alive 🔮
+
+---
+
+📫 **Let’s Connect!**  
+Got an idea? Collaboration in mind? Ping me – I'm always up for building something awesome!
+
 
 
 ## 🌐 Socials:
