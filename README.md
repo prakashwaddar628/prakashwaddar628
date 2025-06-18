@@ -1,33 +1,43 @@
-## 🚀 About Me
+🚀 About Me
 
-🎯 **Current Projects:**
-- 🛠️ **WebNexa** – AI-powered website builder for small businesses, using open-source tech and self-hosted models.
-- 🛒 **GroceryHub** – Smart grocery management system (Next.js + Flask).
-- 🎌 **Anime Characterization** – ML/DL project recognizing anime characters and analyzing behaviors.
-- 🧾 **Loan Approval Predictor** – Full-stack app predicting loan approvals with real-time ML integration.
+🎯 Current Projects:
 
-🤝 **Looking to Collaborate On:**
-- Cutting-edge **AI/ML projects**
-- Innovative **web/mobile applications**
-- Open-source tools that solve **real-world problems**
+🛠️ WebNexa – AI-powered website builder for small businesses, utilizing open-source tech and self-hosted models to maximize control and performance.
 
-🧠 **Learning & Exploring:**
-- ⚙️ Advanced AI & deep learning techniques
-- ☁️ Cloud computing & deployment (AWS, Docker, etc.)
-- 🧩 Full-stack development with **Next.js**, **Flask**, and modern UI frameworks
+🛒 GroceryHub – Smart grocery and expense management system, combining Next.js and Flask for a robust full-stack experience.
 
-💡 **Ask Me About:**
-AI, data science, deep learning, Flask, Next.js, or how to bring an AI project from idea to deployment!
+🎌 Anime Characterization – Deep learning project recognizing anime characters and analyzing personality/behavior patterns.
 
-🌟 **Fun Fact:**
-I'm passionate about the intersection of **tech & human behavior** – and I love creating intelligent apps that feel alive 🔮
+🧾 Loan Approval Predictor – Real-time ML-powered app for accurate loan approval prediction using a modern full-stack setup.
 
----
+🤝 Looking to Collaborate On:
 
-📫 **Let’s Connect!**  
-Got an idea? Collaboration in mind? Ping me – I'm always up for building something awesome!
+Cutting-edge AI/ML solutions with real-world impact
 
+Innovative and scalable web/mobile apps
 
+Challenging open-source contributions across AI and DevOps
+
+🧠 Learning & Exploring:
+
+⚙️ Advanced machine/deep learning (GANs, LLMs, Computer Vision)
+
+☁️ Scalable deployments with Docker, AWS, Vercel, and GCP
+
+🧩 Full-stack product engineering using Next.js, Flask, Prisma, and Tailwind CSS
+
+💡 Ask Me About:
+
+Bringing AI ideas to deployment (end-to-end)
+
+Building optimized REST APIs & ML model integration
+
+Designing practical and smart user-facing applications
+
+🌟 Fun Fact:
+I’m fascinated by the intersection of technology and human behavior — and I thrive on crafting intelligent systems that feel intuitive and alive 🔮
+
+📫 Let’s Connect!Got an idea or project in mind? Reach out and let's build something remarkable together!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____prakash____28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://linkedin.com/in/prakash-l-waddar/]])
