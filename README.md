@@ -1,5 +1,49 @@
-# 💫 About Me:
-🚀 About Me<br><br>I'm an AI software developer and full-stack engineer passionate about crafting intelligent, intuitive applications that blend deep learning with practical utility. My work spans AI-powered web platforms, smart analysis tools, and real-time ML-driven systems—all aimed at solving real-world problems.<br><br>🎯 Current Projects:<br>🎌 Anime Characterizer – A hybrid Deep Learning model (YOLOv8 + DeepDanbooru + CLIP) that identifies anime characters in multi-character scenes and fetches bios using the Jikan API.<br><br>🧾 Loan Approval Predictor – An ML-based full-stack app that analyzes applicant data and provides instant loan approval predictions with explainable insights.<br><br>📄 Smart Resume Analyzer – Upload your resume and get GPT-powered feedback, missing skill highlights, personalized course recommendations, and visual analytics.<br><br>🤝 Looking to Collaborate On:<br><br>Production-ready AI/ML applications<br>Scalable SaaS or B2B tools<br>Open-source contributions in AI/DevOps/Visualization<br><br>🧠 Learning & Exploring:<br>🧬 Generative AI: GANs, Diffusion, Vision Transformers, LLM fine-tuning<br>☁️ Scalable MLOps: Docker, FastAPI, GCP, AWS, CI/CD pipelines<br>🧱 Engineering smarter UIs with React, Next.js, Tailwind, Prisma<br><br>💡 Ask Me About:<br>End-to-end AI product development<br>Real-time inference APIs<br>Frontend + backend integration of ML pipelines<br>How to turn your AI model into a deployable product<br><br>🌟 Fun Fact:<br>I'm fascinated by the intersection of tech and human cognition — I love building apps that think with you, not just for you.<br><br>📫 Let’s Connect:<br>Got a project in mind? I’d love to chat and help bring it to life!
+# About Me
+
+I’m **Master Prakash**, an **AI Software Developer** and **Full-Stack Engineer** passionate about crafting intelligent, practical applications that bring AI into real-world use cases.  
+
+I specialize in building **AI-powered platforms**, **smart analytics tools**, and **real-time ML-driven systems** designed to solve impactful problems at scale.
+
+---
+
+## Current Projects
+- **Anime Characterizer** — A hybrid deep learning model (YOLOv8 + DeepDanbooru + CLIP) that identifies anime characters in multi-character scenes and fetches bios using the Jikan API.  
+- **Loan Approval Predictor** — A full-stack ML application that analyzes applicant data and provides instant loan approval predictions with explainable insights.  
+- **Smart Resume Analyzer** — A GPT-powered tool that provides resume feedback, highlights missing skills, recommends courses, and offers visual analytics.
+
+---
+
+## Collaboration Interests
+- Production-ready AI/ML applications  
+- Scalable SaaS and B2B platforms  
+- Open-source projects in AI, DevOps, or Data Visualization  
+
+---
+
+## Areas of Learning
+- **Generative AI** — GANs, Diffusion Models, Vision Transformers, LLM fine-tuning  
+- **MLOps & Cloud** — Docker, FastAPI, GCP, AWS, CI/CD pipelines  
+- **Modern Frontend Development** — React, Next.js, Tailwind, Prisma  
+
+---
+
+## Expertise
+- End-to-end AI product development  
+- Real-time inference APIs  
+- Integrating ML pipelines with frontend & backend systems  
+- Deploying AI models into production  
+
+---
+
+## Fun Fact
+I’m fascinated by the intersection of **technology and human cognition** — I enjoy building applications that think *with* users, not just *for* them.
+
+---
+
+## Connect With Me
+- 🌐 [Portfolio](https://prakash-waddar.vercel.app/)  
+- 📧 Open to opportunities and collaborations
+
 
 
 ## 🌐 Socials:
