@@ -1,6 +1,6 @@
 # About Me
 
-I’m **Master Prakash**, an **AI Software Developer** and **Full-Stack Engineer** passionate about crafting intelligent, practical applications that bring AI into real-world use cases.  
+I’m **Prakash**, an **AI Software Developer** and **Full-Stack Engineer** passionate about crafting intelligent, practical applications that bring AI into real-world use cases.  
 
 I specialize in building **AI-powered platforms**, **smart analytics tools**, and **real-time ML-driven systems** designed to solve impactful problems at scale.
 
