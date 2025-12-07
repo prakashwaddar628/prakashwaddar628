@@ -1,6 +1,6 @@
 # About Me
 
-I’m **Prakash**, an **AI Software Developer** and **Full-Stack Engineer** passionate about crafting intelligent, practical applications that bring AI into real-world use cases.  
+I’m **Prakash L Waddar**, an **AI Software Developer** and **Full-Stack Engineer** passionate about crafting intelligent, practical applications that bring AI into real-world use cases.  
 
 I specialize in building **AI-powered platforms**, **smart analytics tools**, and **real-time ML-driven systems** designed to solve impactful problems at scale.
 
@@ -41,7 +41,7 @@ I’m fascinated by the intersection of **technology and human cognition** — I
 ---
 
 ## Connect With Me
-- 🌐 [Portfolio](https://prakash-waddar.vercel.app/)  
+- 🌐 [Portfolio](https://prakash-l-waddar.vercel.app/)  
 - 📧 Open to opportunities and collaborations
 
 
