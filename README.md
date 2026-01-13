@@ -50,11 +50,16 @@ I am a final-year **B.Tech student in Artificial Intelligence & Data Science** w
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prakashwaddar628&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakashwaddar628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="General Stats" />
+</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashwaddar628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashwaddar628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prakashwaddar628&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashwaddar628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ### 🐍 Contribution Activity (3D)
