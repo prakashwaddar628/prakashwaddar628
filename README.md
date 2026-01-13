@@ -50,17 +50,11 @@ I am a final-year **B.Tech student in Artificial Intelligence & Data Science** w
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashwaddar628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="General Stats" />
-</p>
+![General Stats](https://github-readme-stats.vercel.app/api?username=prakashwaddar628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prakashwaddar628&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
-</p>
+![Streak Stats](https://streak-stats.demolab.com?user=prakashwaddar628&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashwaddar628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashwaddar628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ### 🐍 Contribution Activity (3D)
 
