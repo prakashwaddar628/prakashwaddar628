@@ -52,6 +52,11 @@ I am a final-year **B.Tech student in Artificial Intelligence & Data Science** w
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prakashwaddar628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashwaddar628&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="git streak" />
+  
+  <br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashwaddar628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
 
