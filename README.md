@@ -50,17 +50,12 @@ I am a final-year **B.Tech student in Artificial Intelligence & Data Science** w
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashwaddar628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashwaddar628&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="git streak" />
-  
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashwaddar628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=prakashwaddar628&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117)](https://git.io/streak-stats)
 
-<br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakashwaddar628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashwaddar628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</p>
 
 ### 🐍 Contribution Activity (3D)
 
