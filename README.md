@@ -37,13 +37,6 @@ I am a final-year **B.Tech student in Artificial Intelligence & Data Science** w
 ### 🛠️ Technical Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp&theme=dark" /><br><br>
-  
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" /><br><br>
-
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mssql,mongodb&theme=dark" /><br><br>
-  
-  <img src="https://skillicons.dev/icons?i=azure,gcp,docker,git,postman,elasticsearch&theme=dark" />
 </div>
 
 ---
