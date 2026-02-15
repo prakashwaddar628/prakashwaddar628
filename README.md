@@ -37,20 +37,22 @@ I am a final-year **B.Tech student in Artificial Intelligence & Data Science** w
 ### 🛠️ Technical Stack
 
 <div align="center">
- (https://github-readme-stats.vercel.app/api?username=prakashwaddar628&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
- (https://nirzak-streak-stats.vercel.app/?user=prakashwaddar628&theme=dark&hide_border=false)<br/>
- (https://github-readme-stats.vercel.app/api/top-langs/?username=prakashwaddar628&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+ <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp&theme=dark" /><br><br>
+
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" /><br><br>
+
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mssql,mongodb&theme=dark" /><br><br>
+
+  <img src="https://skillicons.dev/icons?i=azure,gcp,docker,git,postman,elasticsearch&theme=dark" />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 
-![General Stats](https://github-readme-stats.vercel.app/api?username=prakashwaddar628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Streak Stats](https://streak-stats.demolab.com?user=prakashwaddar628&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashwaddar628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![](https://github-readme-stats.vercel.app/api?username=prakashwaddar628&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=prakashwaddar628&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashwaddar628&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🐍 Contribution Activity (3D)
 
